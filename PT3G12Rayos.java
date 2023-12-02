@@ -14,7 +14,6 @@ public class PT3G12Rayos {
     }
 
     public static void main(String[] args) {
-        print("this is a test that the code would run");
 
         // Create instances of Rectangle and Circle
         Rectangle rect = new Rectangle();
